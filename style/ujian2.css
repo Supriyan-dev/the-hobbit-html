@@ -1,0 +1,166 @@
+* {
+	margin:0px;
+	padding:0px;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#box {
+	height:1045px;
+	width:700px;
+	background-image:url('../images/bgcontainer.jpg');
+   /* background-repeat:no-repeat;*/
+    background:auto;
+    background-size:700px;
+    background-position:center auto;
+	margin:auto;
+
+}
+
+#menu {
+	height:90px;
+	margin:auto;
+	width:651px;
+	background-image:url('../images/bgcontent.gif');
+	background-size:650px;
+}
+
+#menu ul {
+	list-style-type:none;
+	height: 50px;
+    width: 63%;
+    margin: auto;
+
+
+}	
+
+#menu ul li {
+	float:left;
+	text-align:right;
+    margin-right:10px;
+    margin-left:7px;
+    margin-top:30px;	
+}
+
+#menu ul li a {
+	font-size:17px;
+	padding:auto;
+	text-decoration: none;
+	
+
+}
+
+#menu ul li a:hover {
+	color:#ffff99;
+} 
+
+#image {
+	height:250px;
+}
+
+#image {
+    padding:15px:;
+    margin-left:50px;
+}
+
+#image img {
+	height:200px;
+}
+
+#content {
+	height:674px;
+	width: 85%;
+    margin: auto;
+}
+
+
+
+#content .coba:first-letter {
+	/*display: block;*/
+	float: left;
+	font-size: 2.5em;
+	margin-top: -20px;
+}
+
+h1 {
+	font-weight: 700px;
+	display: block;
+	font-size: 30px;
+}
+
+ h2 {
+	display: block;
+	font-size: 1.3em;
+	/*padding-bottom:20px;*/
+	padding-top:25px;
+}
+
+#content .lagi {
+	height:-80px;
+	text-align: justify;
+}
+
+.lagi img {
+  width: 250px;
+  height: auto;
+  float: left;
+  margin-right:11px;
+  border:dashed 2px #fff000;
+}
+
+#divider img {
+	height:25px;
+	width: auto;
+	margin-bottom: 20px;
+	border:1;
+}
+
+.cobain:first-letter {
+	/*display: block;*/
+	float: left;
+	font-size: 2.5em;
+	margin-top: -20px;
+	/*margin-left:1px;*/
+}
+
+h1 {
+	font-weight: 500px;
+	/*display: block;*/
+	font-size: 30px;
+}
+
+ h2 {
+	display: block;
+	font-size: 1.3em;
+	/*padding-bottom:20px;*/
+	padding-top:5px;
+}
+
+#content .quote {
+	/*width:100px;*/
+	height:auto;
+}
+
+.quote img {
+	width:25px;
+	height: auto;
+	float: left;
+	border:none;
+	/*padding-top:80px;*/
+}
+
+.quote h2 {
+	padding-top: 15px;
+	margin-left: 40px;
+	
+}
+
+#footer {
+	background-image: url(../images/bgfooter.gif..);
+	height: 30px;
+	width: 646px;
+	background-size:645px;
+    background-position:center auto;
+	margin:auto;
+	text-align:center;
+}
